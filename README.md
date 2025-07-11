@@ -1,10 +1,10 @@
 IPL Database Management System
 
-Group Members' Name - Student ID 
-Vatsal Somaliya - 202301210 
-Chaitri Vadaviya - 202301243 
-Jayansh Gaadhe - 202301232 
-Dhyey Raval - 202301253
+Group Members:
+1. Vatsal Somaliya - 202301210 
+2. Chaitri Vadaviya - 202301243 
+3. Jayansh Gaadhe - 202301232 
+4. Dhyey Raval - 202301253
 
 Objective: 
 Design and implement a database to store statistics of every ball bowled in a T20 match. 

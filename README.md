@@ -16,14 +16,12 @@ Platform Features:
 o Record match information (date, teams, individual and team records, 
 venue, and match status). 
 2. Ball-by-Ball Data Tracking 
-o Ball details include ball number, speed, runs scored, extras, six distance, 
+o Ball details include ball number, speed, runs scored, extras, 
 and wicket details. 
 3. Player Information 
 o Capture player details like name, role (batsman, bowler, all
 rounder), and stats. 
-4. User Actions 
-o Users can view match summaries, Most Valuable Player (batter), Most 
-Valuable Player (bowler), ball-by-ball statistics and much more.
+4. Input data mostly requires manual entries for per ball enteries. The other data are taken into input via insertion queries.The purpose of making it into tables was to handle/use them for future stats.
 
 Conclusion: 
 The T20 Cricket Match Ball-By-Ball Tracker DBMS project will provide detailed 
